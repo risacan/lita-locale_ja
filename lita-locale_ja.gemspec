@@ -3,10 +3,10 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["Risa Harada"]
   spec.email         = ["supikateriburu@gmail.com"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.description   = "Litaの日本語localeファイルです。"
+  spec.summary       = ""
+  spec.homepage      = "https://github.com/risacan/lita-locale_ja"
+  spec.license       = ""
   spec.metadata      = { "lita_plugin_type" => "extension" }
 
   spec.files         = `git ls-files`.split($/)
