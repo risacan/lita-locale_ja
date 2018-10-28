@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-locale_ja"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Risa Harada"]
   spec.email         = ["supikateriburu@gmail.com"]
   spec.description   = "Litaの日本語localeファイルです。"
